@@ -2,6 +2,7 @@
   "newSong": [
     {
       "id": "1",
+      "cid": "1",
       "title": "محمد الشحي",
       "description": "طفل ضايع",
       "url": "http://ms16.sm3na.com/1418/Sm3na_com_47724.mp3",
@@ -11,6 +12,8 @@
     },
     {
       "id": "1",
+            "cid": "2",
+
       "title": "اغاني حب خطوبه",
       "description": "الليلة يا أم العروسة ",
       "url": "https://ia601500.us.archive.org/10/items/t_Jwa/19.mp3",
@@ -20,6 +23,8 @@
     },
     {
       "id": "1",
+            "cid": "3",
+
       "title": "مصطفى جاد",
       "description": "وحشتيني ",
       "url": "http://ss1.sm3na.com/1547/Sm3na_com_48095.mp3",
@@ -29,6 +34,8 @@
     },
     {
       "id": "1",
+            "cid": "4",
+
       "title": "Hindi Remix 2018",
       "description": "Remix 1",
       "url": "https://ia601500.us.archive.org/29/items/outlook1_201801/1.m4a",
@@ -38,6 +45,8 @@
     },
     {
       "id": "1",
+            "cid": "5",
+
       "title": "اغاني حب خطوبه",
       "description": "الزين و الزينة ",
       "url": "https://ia601500.us.archive.org/10/items/t_Jwa/16.mp3",
@@ -47,6 +56,8 @@
     },
     {
       "id": "1",
+            "cid": "6",
+
       "title": "طوب اغاني عربية 2018",
       "description": "ولا لحظة",
       "url": "http://ss1.sm3na.com/201702-mp/Sm3na_com_46744.mp3",
