@@ -1,124 +1,57 @@
 {
   "newSong": [
   {
-      "id": "12",
-      "cid": "12",
+      "id": "1",
       "title": "محمد الشحي",
       "description": "طفل ضايع",
       "url": "http://ms16.sm3na.com/1418/Sm3na_com_47724.mp3",
       "image": "http://emarat-news.ae/documents/20181/6531945/محمد+الشحي+يكشف+عن+جديده+%282%29.jpg",
-      "duration": "2018/1/1",
+      "duration": "2018",
       "name": "جديد 2018"
     },
     {
       "id": "1",
-      "cid": "1",
-      "title": "محمد الشحي",
-      "description": "طفل ضايع",
-      "url": "http://ms16.sm3na.com/1418/Sm3na_com_47724.mp3",
-      "image": "http://emarat-news.ae/documents/20181/6531945/محمد+الشحي+يكشف+عن+جديده+%282%29.jpg",
-      "duration": "2018/1/1",
+      "title": "اغاني حب خطوبه",
+      "description": "الليلة يا أم العروسة ",
+      "url": "https://ia601500.us.archive.org/10/items/t_Jwa/19.mp3",
+      "image": "http://melody4arab.com/music/egypt/collection/best_arabic_love_album_in_the_world/love.jpg",
+      "duration": "2018",
+      "name": "جديد 2018"
+    },
+    "id": "1",
+      "title": "مصطفى جاد",
+      "description": "وحشتيني ",
+      "url": "http://ss1.sm3na.com/1547/Sm3na_com_48095.mp3",
+      "image": "http://naijacelebrity.com/wp-content/uploads/2013/12/Top-10.jpg",
+      "duration": "2018",
       "name": "جديد 2018"
     },
     {
-      "id": "2",
-      "cid": "2",
-      "title": "نبيل شعيل",
-      "description": "وقف شويه",
-      "url": "http://ms16.sm3na.com/39/Sm3na_com_47943.mp3",
-      "image": "http://melody4arab.com/music/kuwait/nabeel_shuiel/photo/melody4arab.com_Nabil_Shuail_15978.jpg",
-      "duration": "2018/1/1",
+      "id": "1",
+      "title": "Hindi Remix 2018",
+      "description": "Remix 1",
+      "url": "https://ia601500.us.archive.org/29/items/outlook1_201801/1.m4a",
+      "image": "https://letsgetvisualvisual.files.wordpress.com/2012/03/remix.png",
+      "duration": "2018",
       "name": "جديد 2018"
     },
     {
-      "id": "3",
-      "cid": "3",
-      "title": "مجد القاسم",
-      "description": "نكتة بايخة",
-      "url": "http://ms16.sm3na.com/319/Sm3na_com_47711.mp3",
-      "image": "https://cairoportal.com/Content/Upload/large/520155194849.jpg",
-      "duration": "2018/1/1",
-      "name": " اغاني سورية "
+      "id": "1",
+      "title": "اغاني حب خطوبه",
+      "description": "الزين و الزينة ",
+      "url": "https://ia601500.us.archive.org/10/items/t_Jwa/16.mp3",
+      "image": "https://www.7obmisr.com/wp-content/uploads/2013/10/Love-message.jpg",
+       "duration": "2018",
+      "name": "جديد 2018"
     },
     {
-      "id": "10",
-      "cid": "10",
-      "title": "w",
-      "description": "w",
-      "url": "w",
-      "image": "w",
-      "duration": "w",
-      "name": "ads"
-    },
-    {
-      "id": "4",
-      "cid": "4",
-      "title": "شيماء الشيايب ",
-      "description": "دنيتى جنة",
-      "url": "http://ms16.sm3na.com/131/Sm3na_com_47437.mp3",
-      "image": "https://www.abdwap2.com/uploads/singers/-alshayb-275x332.jpg",
-      "duration": "",
-      "name": "  اغانى مصرية"
-    },
-    {
-      "id": "5",
-      "cid": "5",
-      "title": "وليد الجيلاني",
-      "description": "بلاعيونه",
-      "url": "http://ms16.sm3na.com/1542/Sm3na_com_47675.mp3",
-      "image": "https://www.dreamboxgate.com/forum/imgcache/2014/351556_dreambox-sat.com.jpg",
-      "duration": "2018/1/1",
-      "name": " اغاني عربيه "
-    },
-    {
-      "id": "6",
-      "cid": "6",
-      "title": "يارا",
-      "description": "حاسس",
-      "url": "http://ms16.sm3na.com/303/Sm3na_com_47464.mp3",
-      "image": "http://www.hiamag.com/sites/default/files/article/07/01/2017/4917796-439031414.jpg",
-      "duration": "2018/1/1",
-      "name": "اغاني لبنانيه"
-    },
-    {
-      "id": "7",
-      "cid": "7",
-      "title": "جوزيف عطيه",
-      "description": "تغيري",
-      "url": "http://ms16.sm3na.com/1061/Sm3na_com_47497.mp3",
-      "image": "http://www.bitajarod.com/wp-content/uploads/2016/04/joseph1111.jpg",
-      "duration": "2018/1/1",
-      "name": " اغاني لبنانيه "
-    },
-    {
-      "id": "8",
-      "cid": "8",
-      "title": "نينا عبد الملك",
-      "description": "إذا هجرت",
-      "url": "http://ms16.sm3na.com/1544/Sm3na_com_47805.mp3",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Harper%27s_Bazaar_Arabia_-_April_2016-27.jpg/280px-Harper%27s_Bazaar_Arabia_-_April_2016-27.jpg",
-      "duration": "2018/1/1",
-      "name": "اغاني لبنانيه "
-    },
-    {
-       "id": "11",
-      "cid": "11",
-      "title": "w",
-      "description": "w",
-      "url": "w",
-      "image": "w",
-      "duration": "w",
-      "name": "ads"
-    },
-    {
-      "id": "9",
-      "cid": "9",
-      "title": "محمد مرغني",
-      "description": "قالهالي",
-      "url": "http://ms16.sm3na.com/1543/Sm3na_com_47701.mp3",
-      "image": "http://melody4arab.com/images/group/mohamed_Marghani.jpg",
-      "duration": "2018/1/1",
-      "name": "اغانى مصرية "
+      "id": "1",
+      "title": "طوب اغاني عربية 2018",
+      "description": "ولا لحظة",
+      "url": "http://ss1.sm3na.com/201702-mp/Sm3na_com_46744.mp3",
+      "image": "http://imshopping.rediff.com/imgshop/800-1280/shopping/pixs/8969/m/Mo_11700592._mothers-day-express-24-red-roses-bunch.JPG",
+       "duration": "2018",
+      "name": "جديد 2018"
     }
   ]
 }
