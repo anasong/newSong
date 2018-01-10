@@ -1,6 +1,6 @@
 {
   "newSong": [
-  {
+    {
       "id": "1",
       "title": "محمد الشحي",
       "description": "طفل ضايع",
@@ -18,7 +18,8 @@
       "duration": "2018",
       "name": "جديد 2018"
     },
-    "id": "1",
+    {
+      "id": "1",
       "title": "مصطفى جاد",
       "description": "وحشتيني ",
       "url": "http://ss1.sm3na.com/1547/Sm3na_com_48095.mp3",
@@ -41,7 +42,7 @@
       "description": "الزين و الزينة ",
       "url": "https://ia601500.us.archive.org/10/items/t_Jwa/16.mp3",
       "image": "https://www.7obmisr.com/wp-content/uploads/2013/10/Love-message.jpg",
-       "duration": "2018",
+      "duration": "2018",
       "name": "جديد 2018"
     },
     {
@@ -50,7 +51,7 @@
       "description": "ولا لحظة",
       "url": "http://ss1.sm3na.com/201702-mp/Sm3na_com_46744.mp3",
       "image": "http://imshopping.rediff.com/imgshop/800-1280/shopping/pixs/8969/m/Mo_11700592._mothers-day-express-24-red-roses-bunch.JPG",
-       "duration": "2018",
+      "duration": "2018",
       "name": "جديد 2018"
     }
   ]
