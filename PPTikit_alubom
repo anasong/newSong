@@ -1,5 +1,15 @@
 {
   "Tikit_alubom": [
+  {
+      "cid": "https://raw.githubusercontent.com/anasong/newSong/master/anchidchichan",
+      "name": "Чеченские песни",
+      "image": "https://i.ytimg.com/vi/WK3yvN_KipQ/maxresdefault.jpg"
+    },
+  {
+      "cid": "https://raw.githubusercontent.com/anasong/newSong/master/relaxingmusic",
+      "name": "Relaxing music",
+      "image": "https://i.ytimg.com/vi/eCidRemUTKo/maxresdefault.jpg"
+    },
     {
       "cid": "https://raw.githubusercontent.com/anasong/newSong/master/1",
       "name": "Top Song 10",
