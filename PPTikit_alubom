@@ -1,11 +1,26 @@
 {
   "Tikit_alubom": [
-  {
+    {
+      "cid": "https://raw.githubusercontent.com/anasong/newSong/master/musiccharkieyy",
+      "name": "اغاني وموسيقى شرقيه",
+      "image": "https://i.pinimg.com/564x/bb/8f/5b/bb8f5b382200bfd5d1f28b4f6238f22c.jpg"
+    },
+    {
+      "cid": "https://raw.githubusercontent.com/anasong/newSong/master/musiqueromantic",
+      "name": "Musique Romantic",
+      "image": "https://ak1.picdn.net/shutterstock/videos/13121858/thumb/1.jpg"
+    },
+    {
+      "cid": "https://raw.githubusercontent.com/anasong/newSong/master/rock",
+      "name": "Musique Rock",
+      "image": "https://statics.lesinrocks.com/content/thumbs/uploads/2017/07/width-1125-height-612-srcset-1/ff-30.jpg"
+    },
+    {
       "cid": "https://raw.githubusercontent.com/anasong/newSong/master/anchidchichan",
       "name": "Чеченские песни",
       "image": "https://i.ytimg.com/vi/WK3yvN_KipQ/maxresdefault.jpg"
     },
-  {
+    {
       "cid": "https://raw.githubusercontent.com/anasong/newSong/master/relaxingmusic",
       "name": "Relaxing music",
       "image": "https://i.ytimg.com/vi/eCidRemUTKo/maxresdefault.jpg"
@@ -34,6 +49,6 @@
       "cid": "https://raw.githubusercontent.com/anasong/newSong/master/kotoba",
       "name": "اغاني خطوبة  وحب",
       "image": "https://www.musicbuzz.io/wp-content/uploads/2017/08/Top-Bollywood-Love-Songs-2018.jpg"
-    } 
+    }
   ]
 }
