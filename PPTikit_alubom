@@ -1,6 +1,11 @@
 {
   "Tikit_alubom": [
     {
+      "cid": "ads",
+      "name": "ads",
+      "image": "ads"
+    },
+    {
       "cid": "https://raw.githubusercontent.com/anasong/newSong/master/musiccharkieyy",
       "name": "اغاني وموسيقى شرقيه",
       "image": "https://i.pinimg.com/564x/bb/8f/5b/bb8f5b382200bfd5d1f28b4f6238f22c.jpg"
@@ -14,6 +19,11 @@
       "cid": "https://raw.githubusercontent.com/anasong/newSong/master/rock",
       "name": "Musique Rock",
       "image": "https://statics.lesinrocks.com/content/thumbs/uploads/2017/07/width-1125-height-612-srcset-1/ff-30.jpg"
+    },
+    {
+      "cid": "ads",
+      "name": "ads",
+      "image": "ads"
     },
     {
       "cid": "https://raw.githubusercontent.com/anasong/newSong/master/anchidchichan",
@@ -36,6 +46,11 @@
       "image": "http://www.vancouversun.com/cms/binary/7508463.jpg"
     },
     {
+      "cid": "ads",
+      "name": "ads",
+      "image": "ads"
+    },
+    {
       "cid": "https://raw.githubusercontent.com/anasong/newSong/master/topaganiarbi",
       "name": "طوب اغاني عربية",
       "image": "https://i.ytimg.com/vi/IcNFQKVsE-M/maxresdefault.jpg"
@@ -49,6 +64,11 @@
       "cid": "https://raw.githubusercontent.com/anasong/newSong/master/kotoba",
       "name": "اغاني خطوبة  وحب",
       "image": "https://www.musicbuzz.io/wp-content/uploads/2017/08/Top-Bollywood-Love-Songs-2018.jpg"
+    },
+    {
+      "cid": "ads",
+      "name": "ads",
+      "image": "ads"
     }
   ]
 }
