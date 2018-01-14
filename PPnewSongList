@@ -1,14 +1,6 @@
 {
   "newSong": [
     {
-      "id": "0",
-      "title": "ads",
-      "description": "ads",
-      "url": "ads",
-      "image": "ads",
-      "name_new": "ads"
-    },
-    {
       "id": "11",
       "title": "Musique Romantic",
       "description": "music for lovers",
@@ -70,14 +62,6 @@
       "image": "http://melody4arab.com/music/egypt/collection/best_arabic_love_album_in_the_world/love.jpg",
       "duration": "2018",
       "name": "جديد 2018"
-    },
-    {
-      "id": "0",
-      "title": "ads",
-      "description": "ads",
-      "url": "ads",
-      "image": "ads",
-      "name_new": "ads"
     },
     {
       "id": "3",
