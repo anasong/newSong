@@ -1,6 +1,16 @@
 {
   "Tikit_alubom": [
   {
+      "cid": "https://raw.githubusercontent.com/anasong/newSong/master/anchidmsrod",
+      "name": "مسعود كرتس",
+      "image": "http://2wpbve1dwyiewqbxbwb84t1c.wpengine.netdna-cdn.com/wp-content/uploads/2017/06/Photo-Bashkim-HASANI-002.jpg"
+    },
+    {
+      "cid": "ads",
+      "name": "ads",
+      "image": "ads"
+    },
+  {
       "cid": "https://raw.githubusercontent.com/anasong/newSong/master/mstfakamil",
       "name": "مصطفى كامل",
       "image": "http://mazikni.com/wp-content/uploads/2017/07/IUBwcBh-Imgur-Copy.jpg"
