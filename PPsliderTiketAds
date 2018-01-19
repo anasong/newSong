@@ -13,7 +13,7 @@
     "logo": "https://archive.org/download/flogg/flogg.gif",
     "chang_page": "blog",
     "ticit_ads": "yes",
-    "visibility_floatingActionButton": "yes"
+    "visibility_floatingActionButton": "no"
   },
   "page_video": {
     "image_live_visibility": "no",
