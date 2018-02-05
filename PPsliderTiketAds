@@ -11,9 +11,9 @@
   "visibilityObject": {
     "active_message": "قريبا 💖💝💖💗💓💗",
     "logo": "https://archive.org/download/flogg/flogg.gif",
-    "chang_page": "blog",
-    "ticit_ads": "no",
-    "visibility_floatingActionButton": "no"
+    "chang_page": "",
+    "ticit_ads": "yes",
+    "visibility_floatingActionButton": "yes"
   },
   "page_video": {
     "image_live_visibility": "no",
