@@ -1,0 +1,47 @@
+{
+  "result": [
+    {
+      "id": "el-mon",
+      "methodeSectionId": "/programes/el-mon",
+      "title": "El món a RAC1",
+      "subtitle": "amb Jordi Basté",
+      "description": "El programa més escoltat de Catalunya. La dotzena temporada de Jordi Basté al capdavant del matinal líder del país.\nUn magazín amb informació, tertúlia i l'opinió d'experts d'elit per tractar tots els temes d'actualitat i aprofundir-hi. \nAmb seccions de cinema, sèries, televisió, educació, tecnologia, internet, música, cuina i molt més. \n",
+      "schedule": "De dilluns a divendres, de 6 a 12 h",
+      "socialNetworks": {
+        "facebook": "https://ca-es.facebook.com/elmonarac1/",
+        "twitter": "https://twitter.com/elmonarac1?lang=ca",
+        "instagram": "https://www.instagram.com/elmonarac1/"
+      },
+      "images": {
+        "app": "https://api.audioteca.rac1.cat/rsc/img/app/el-mon.png",
+        "itunes": "https://api.audioteca.rac1.cat/rsc/img/itunes/el-mon.jpg",
+        "share": "https://api.audioteca.rac1.cat/rsc/img/share/el-mon.jpg",
+        "program": "https://api.audioteca.rac1.cat/rsc/img/program/el-mon.jpg",
+        "person": "https://api.audioteca.rac1.cat/rsc/img/person/el-mon.png",
+        "person-small": "https://api.audioteca.rac1.cat/rsc/img/person-small/el-mon.png",
+        "podcast": "https://api.audioteca.rac1.cat/rsc/img/podcast/el-mon.jpg"
+      },
+      "imageVersion": 1,
+      "email": "elmon@rac1.net",
+      "url": "http://www.rac1.cat/elmon/",
+      "active": true,
+      "hidden": false,
+      "sections": [
+        {
+          "id": "HOUR",
+          "type": "HOUR",
+          "title": "L'hora a hora",
+          "program": null,
+          "active": true,
+          "hidden": false,
+          "adsId": 21,
+          "itunesUrl": "https://itunes.apple.com/es/podcast/rac1-podcast-el-mon-a-rac1/id252945946"
+        }
+      ],
+      "pillAdsId": null,
+      "itunesCategory": "NEWS_POLITICS"
+    }
+  ],
+  "success": true,
+  "meta": null
+}
