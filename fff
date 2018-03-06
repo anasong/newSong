@@ -1,6 +1,6 @@
 {
   "nemeap": {
-    "pac": "trk",
+    "pac": "com.github.yeriomin.dumbphoneassistant",
     "hide": "yes"
   },
   "rowstati": true,
