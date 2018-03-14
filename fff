@@ -1,6 +1,6 @@
 {
   "nemeap": {
-    "pac": "co.d.db",
+    "pac": "com.project.applocker",
     "hide": "yes"
   }
 }
