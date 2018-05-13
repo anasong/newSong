@@ -1,42 +1,34 @@
 {
-  "alubomSong": [
+  "alubom": [
     {
-
       "id": "1",
       "title": "ليالي العشق",
-      "description": "",
       "url": "https://ms16.sm3na.com/3/Sm3na_com_48618.mp3",
-      "image": "http://lyricstranslate-f2sqfo9.stackpathdns.com/files/styles/large/public/tvsupplement1.471871.jpg",
-      "name_new": ""
-    },{
+      "image": "http://lyricstranslate-f2sqfo9.stackpathdns.com/files/styles/large/public/tvsupplement1.471871.jpg"
+    },
+    {
       "id": "2",
       "title": "في المقهى",
-      "description": "",
       "url": "https://ms16.sm3na.com/3/Sm3na_com_48624.mp3",
-      "image": "http://lyricstranslate-f2sqfo9.stackpathdns.com/files/styles/large/public/tvsupplement1.471871.jpg",
-      "name_new": ""
-    },{
+      "image": "http://lyricstranslate-f2sqfo9.stackpathdns.com/files/styles/large/public/tvsupplement1.471871.jpg"
+    },
+    {
       "id": "3",
       "title": "تأخرنا",
-      "description": "",
       "url": "https://ms16.sm3na.com/3/Sm3na_com_48621.mp3",
-      "image": "http://lyricstranslate-f2sqfo9.stackpathdns.com/files/styles/large/public/tvsupplement1.471871.jpg",
-      "name_new": ""
-    },{
+      "image": "http://lyricstranslate-f2sqfo9.stackpathdns.com/files/styles/large/public/tvsupplement1.471871.jpg"
+    },
+    {
       "id": "4",
       "title": "جتني الأسامي",
-      "description": "",
       "url": "https://ms16.sm3na.com/3/Sm3na_com_48622.mp3",
-      "image": "http://lyricstranslate-f2sqfo9.stackpathdns.com/files/styles/large/public/tvsupplement1.471871.jpg",
-      "name_new": ""
-    },{
+      "image": "http://lyricstranslate-f2sqfo9.stackpathdns.com/files/styles/large/public/tvsupplement1.471871.jpg"
+    },
+    {
       "id": "5",
       "title": "جيت في بالي",
-      "description": "",
       "url": "https://ms16.sm3na.com/3/Sm3na_com_48615.mp3",
-      "image": "http://lyricstranslate-f2sqfo9.stackpathdns.com/files/styles/large/public/tvsupplement1.471871.jpg",
-      "name_new": ""
+      "image": "http://lyricstranslate-f2sqfo9.stackpathdns.com/files/styles/large/public/tvsupplement1.471871.jpg"
     }
-
   ]
 }
