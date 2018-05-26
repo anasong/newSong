@@ -1,50 +1,67 @@
+
+
 {
   "ALL_IN_ONE_VIDEO": [
     {
-      "cat_id": "2",
-      "category_name": "Comedy",
-      "id": "1",
-      "video_type": "youtube",
-      "video_title": "FAST AND FURIOUS 8",
-      "video_url": "https://www.youtube.com/watch?v=9PcmKECf82g",
-      "video_id": "9PcmKECf82g"
-    }
-    ,
-    {
-      "cat_id": "2",
-      "category_name": "Comedy",
-      "id": "2",
-      "video_type": "youtube",
-      "video_title": "jc-eetPz-6c",
-      "video_url": "https://www.youtube.com/watch?v=jc-eetPz-6c",
-      "video_id": "jc-eetPz-6c"
-    },
-    {
-      "cat_id": "2",
-      "category_name": "Comedy",
-      "id": "3",
-      "video_type": "youtube",
-      "video_title": "81Me4Z4UFGY",
-      "video_url": "https://www.youtube.com/watch?v=81Me4Z4UFGY",
-      "video_id": "81Me4Z4UFGY"
-    },
-    {
-      "cat_id": "2",
-      "category_name": "Comedy",
-      "id": "4",
-      "video_type": "youtube",
-      "video_title": "XHOzX24XxhI",
-      "video_url": "https://www.youtube.com/watch?v=XHOzX24XxhI",
-      "video_id": "XHOzX24XxhI"
-    },
-    {
-      "cat_id": "2",
-      "category_name": "Comedy",
-      "id": "5",
-      "video_type": "youtube",
-      "video_title": "QqWopTg-AxY",
-      "video_url": "https://www.youtube.com/watch?v=QqWopTg-AxY",
-      "video_id": "QqWopTg-AxY"
+      "cat_id": "1",
+      "category_name": "Animation",
+      "id": "8",
+      "video_type": "local",
+      "video_title": "Android Kit Kat",
+      "video_url": "http://www.viaviweb.in/envato/cc/all_in_one_videos_demo/uploads/70010_kitkat.mp4",
+      "video_id": "",
+      "video_thumbnail_b": "http://www.viaviweb.in/envato/cc/all_in_one_videos_demo/images/35992_android-4.4-kitkat.jpg",
+      "video_thumbnail_s": "http://www.viaviweb.in/envato/cc/all_in_one_videos_demo/images/thumbs/35992_android-4.4-kitkat.jpg",
+      "video_duration": "02:52",
+      "video_description": "<p><strong>Lorem Ipsum</strong>&nbsp;is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&#39;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>\r\n",
+      "related": [
+        {
+          "cat_id": "2",
+          "category_name": "Comedy",
+          "id": "1",
+          "video_type": "youtube",
+          "video_title": "FAST AND FURIOUS 8",
+          "video_url": "https://www.youtube.com/watch?v=9PcmKECf82g",
+          "video_id": "9PcmKECf82g"
+        }
+      ,
+        {
+          "cat_id": "2",
+          "category_name": "Comedy",
+          "id": "2",
+          "video_type": "youtube",
+          "video_title": "jc-eetPz-6c",
+          "video_url": "https://www.youtube.com/watch?v=jc-eetPz-6c",
+          "video_id": "jc-eetPz-6c"
+        },
+        {
+          "cat_id": "2",
+          "category_name": "Comedy",
+          "id": "3",
+          "video_type": "youtube",
+          "video_title": "81Me4Z4UFGY",
+          "video_url": "https://www.youtube.com/watch?v=81Me4Z4UFGY",
+          "video_id": "81Me4Z4UFGY"
+        },
+        {
+          "cat_id": "2",
+          "category_name": "Comedy",
+          "id": "4",
+          "video_type": "youtube",
+          "video_title": "XHOzX24XxhI",
+          "video_url": "https://www.youtube.com/watch?v=XHOzX24XxhI",
+          "video_id": "XHOzX24XxhI"
+        },
+        {
+          "cat_id": "2",
+          "category_name": "Comedy",
+          "id": "5",
+          "video_type": "youtube",
+          "video_title": "QqWopTg-AxY",
+          "video_url": "https://www.youtube.com/watch?v=QqWopTg-AxY",
+          "video_id": "QqWopTg-AxY"
+        }
+      ]
     }
   ]
 }
