@@ -1,0 +1,50 @@
+{
+  "ALL_IN_ONE_VIDEO": [
+    {
+      "cat_id": "2",
+      "category_name": "Comedy",
+      "id": "1",
+      "video_type": "youtube",
+      "video_title": "FAST AND FURIOUS 8",
+      "video_url": "https://www.youtube.com/watch?v=9PcmKECf82g",
+      "video_id": "9PcmKECf82g"
+    }
+    ,
+    {
+      "cat_id": "2",
+      "category_name": "Comedy",
+      "id": "2",
+      "video_type": "youtube",
+      "video_title": "jc-eetPz-6c",
+      "video_url": "https://www.youtube.com/watch?v=jc-eetPz-6c",
+      "video_id": "jc-eetPz-6c"
+    },
+    {
+      "cat_id": "2",
+      "category_name": "Comedy",
+      "id": "3",
+      "video_type": "youtube",
+      "video_title": "81Me4Z4UFGY",
+      "video_url": "https://www.youtube.com/watch?v=81Me4Z4UFGY",
+      "video_id": "81Me4Z4UFGY"
+    },
+    {
+      "cat_id": "2",
+      "category_name": "Comedy",
+      "id": "4",
+      "video_type": "youtube",
+      "video_title": "XHOzX24XxhI",
+      "video_url": "https://www.youtube.com/watch?v=XHOzX24XxhI",
+      "video_id": "XHOzX24XxhI"
+    },
+    {
+      "cat_id": "2",
+      "category_name": "Comedy",
+      "id": "5",
+      "video_type": "youtube",
+      "video_title": "QqWopTg-AxY",
+      "video_url": "https://www.youtube.com/watch?v=QqWopTg-AxY",
+      "video_id": "QqWopTg-AxY"
+    }
+  ]
+}
