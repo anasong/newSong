@@ -5,45 +5,47 @@
       "uel": "https://ss1.sm3na.com/1557/Sm3na_com_49188.mp3",
       "imageurl": ""
     },
+     {
+      "name": "Top Romanssie",
+      "uel": "http://douniamp3.co/music/test/أغاني%20الشرقي/اغانى-رومانسية-2016/Top Romanssie.mp3",
+      "imageurl": ""
+    },
+    {
+      "name": "Tabki Toyor",
+      "uel": "http://douniamp3.co/music/test2/أغاني%20الشرقي/اغانى-رومانسية-2016/01.Tabki Toyor.mp3",
+      "imageurl": ""
+    },
     {
       "name": "رزاق يا كريم",
-      "uel": "sm3na/1557/Sm3na_com_49185.mp3",
+      "uel": "https://ss1.sm3na.com/1557/Sm3na_com_49185.mp3",
       "imageurl": ""
     },
-  {
-      "name": "Tabki Toyor",
-      "uel": "douniamp3/أغاني%20الشرقي/اغانى-رومانسية-2016/01.Tabki Toyor.mp3",
-      "imageurl": ""
-    },
+  
     {
       "name": "الفاتحة",
-      "uel": "quran/ahmad_huth/001.mp3",
+      "uel": "https://server8.mp3quran.net/ahmad_huth/001.mp3",
       "imageurl": ""
     }, {
       "name": "إبراهيم",
-      "uel": "quran/ahmad_huth/014.mp3",
+      "uel": "https://server8.mp3quran.net/ahmad_huth/014.mp3",
       "imageurl": ""
     }, {
       "name": "الحجر",
-      "uel": "quran/ahmad_huth/015.mp3",
+      "uel": "https://server8.mp3quran.net/ahmad_huth/015.mp3",
       "imageurl": ""
     }, 
-    {
-      "name": "Top Romanssie",
-      "uel": "douniamp3/أغاني%20الشرقي/اغانى-رومانسية-2016/Top Romanssie.mp3",
-      "imageurl": ""
-    },{
+   {
       "name": "الإسراء",
-      "uel": "quran/ahmad_huth/017.mp3",
+      "uel": "https://server8.mp3quran.net/ahmad_huth/017.mp3",
       "imageurl": ""
     }, {
       "name": "الكهف",
-      "uel": "quran/ahmad_huth/018.mp3",
+      "uel": "https://server8.mp3quran.net/ahmad_huth/018.mp3",
       "imageurl": ""
     },
     {
       "name": "مريم",
-      "uel": "quran/ahmad_huth/019.mp3",
+      "uel": "https://server8.mp3quran.net/ahmad_huth/019.mp3",
       "imageurl": ""
     }
   ]
