@@ -1,10 +1,19 @@
 {
   "replace+": [
     {
-      "name+": "1",
-      "url+": "http://douniamp3.co/music/test2/",
-      "urlError": "qqqqqqq"
-
+      "name+": "douniamp3",
+      "url+": "douniamp3/",
+      "urlError": "http://douniamp3.co/music/test2/"
+    },
+    {
+      "name+": "quran",
+      "url+": "quran/",
+      "urlError": "https://server8.mp3quran.net/"
+    },
+    {
+      "name+": "sm3na",
+      "url+": "sm3na/",
+      "urlError": "https://ss1.sm3na.com/"
     }
   ]
-}
+}
