@@ -2,8 +2,8 @@
   "replace+": [
     {
       "name+": "douniamp3",
-      "url+": "http://douniamp3.co/music/test/",
-      "urlError": "http://douniamp3.co/music/test2/"
+      "url+": "youness",
+      "urlError": "https://server8.mp3quran.net"
     } 
   ]
 }
