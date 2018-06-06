@@ -23,15 +23,15 @@
   
     {
       "name": "الفاتحة",
-      "uel": "https://server8.mp3quran.net/ahmad_huth/001.mp3",
+      "uel": "youness/ahmad_huth/001.mp3",
       "imageurl": ""
     }, {
       "name": "إبراهيم",
-      "uel": "https://server8.mp3quran.net/ahmad_huth/014.mp3",
+      "uel": "youness/ahmad_huth/014.mp3",
       "imageurl": ""
     }, {
       "name": "الحجر",
-      "uel": "https://server8.mp3quran.net/ahmad_huth/015.mp3",
+      "uel": "youness/ahmad_huth/015.mp3",
       "imageurl": ""
     }, 
    {
@@ -40,12 +40,12 @@
       "imageurl": ""
     }, {
       "name": "الكهف",
-      "uel": "https://server8.mp3quran.net/ahmad_huth/018.mp3",
+      "uel": "youness/ahmad_huth/018.mp3",
       "imageurl": ""
     },
     {
       "name": "مريم",
-      "uel": "https://server8.mp3quran.net/ahmad_huth/019.mp3",
+      "uel": "youness/ahmad_huth/019.mp3",
       "imageurl": ""
     }
   ]
