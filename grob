@@ -1,4 +1,15 @@
 {
+  "Yads": [
+    {
+      "code_BANNER": "ca-app-pub-3940256099942544/6300978111",
+      "code_BANNER_1": "ca-app-pub-3940256099942544/6300978111",
+      "code_Interstitial": "ca-app-pub-3940256099942544/1033173712",
+      "code_Interstitial_1": "ca-app-pub-3940256099942544/1033173712",
+      "code_Interstitial_2": "ca-app-pub-3940256099942544/1033173712",
+      "code_Interstitial_3": "ca-app-pub-3940256099942544/1033173712"
+      
+    }
+  ],
   "Pakgenm": [
     {
       "kgenm": "com.example.examplevideo"
