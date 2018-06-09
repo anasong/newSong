@@ -3,7 +3,9 @@
     {
       "name+": "douniamp3",
       "url+": "youness",
-      "urlError": "https://ss1.sm3na.com"
-    } 
+      "urlError": "https://ss1.sm3na.com",
+      "password": "younessola",
+      "Numpassword": 10
+    }
   ]
 }
