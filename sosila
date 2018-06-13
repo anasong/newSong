@@ -1,0 +1,246 @@
+{
+  "sosila": [
+    {
+      "name": "Facebook",
+      "url": "https://m.facebook.com",
+      "image": "https://ia801503.us.archive.org/11/items/fp_thumbnail/untitled%20folder%202/fp_facebook.png"
+    },
+    {
+      "name": "Twitter",
+      "url": "https://mobile.twitter.com",
+      "image": "https://ia801503.us.archive.org/11/items/fp_thumbnail/untitled%20folder%202/fp_twitter.png"
+    },
+    {
+      "name": "Instagram",
+      "url": "https://www.instagram.com",
+      "image": "https://ia801503.us.archive.org/11/items/fp_thumbnail/untitled%20folder%202/fp_instagram.png"
+    },
+    {
+      "name": "Snapchat",
+      "url": "https://accounts.snapchat.com/accounts/login",
+      "image": "https://ia801503.us.archive.org/11/items/fp_thumbnail/untitled%20folder%202/fp_snapchat.png"
+    },
+    {
+      "name": "Dailymotion",
+      "url": "http://www.dailymotion.com",
+      "image": "https://ia801503.us.archive.org/11/items/fp_thumbnail/untitled%20folder%202/fp_dailymotion.png"
+    },
+    {
+      "name": "VK",
+      "url": "https://m.vk.com",
+      "image": "https://ia801503.us.archive.org/11/items/fp_thumbnail/untitled%20folder%202/fp_vk.png"
+    },
+    {
+      "name": "Pinterest",
+      "url": "https://www.pinterest.com",
+      "image": "https://ia801503.us.archive.org/11/items/fp_thumbnail/untitled%20folder%202/fp_pinterest.png"
+    },
+    {
+      "name": "Outlook",
+      "url": "https://outlook.live.com/owa/",
+      "image": "https://ia801503.us.archive.org/11/items/fp_thumbnail/untitled%20folder%202/fp_outlook.png"
+    },
+    {
+      "name": "Gmail",
+      "url": "https://mail.google.com/mail/u/0/",
+      "image": "https://ia801503.us.archive.org/11/items/fp_thumbnail/untitled%20folder%202/fp_google_mail.png"
+    },
+    {
+      "name": "Quora",
+      "url": "https://www.quora.com/",
+      "image": "https://ia801503.us.archive.org/11/items/fp_thumbnail/untitled%20folder%202/fp_quora.png"
+    },
+    {
+      "name": "Yahoo Messenger",
+      "url": "https://messenger.yahoo.com/",
+      "image": "https://ia801503.us.archive.org/11/items/fp_thumbnail/untitled%20folder%202/fp_yahoo.png"
+    },
+    {
+      "name": "Aol",
+      "url": "https://www.aol.com",
+      "image": "https://ia801503.us.archive.org/11/items/fp_thumbnail/untitled%20folder%202/fp_aol.png"
+    },
+    {
+      "name": "Yandex mail",
+      "url": "https://mail.yandex.com/",
+      "image": "https://ia801503.us.archive.org/11/items/fp_thumbnail/untitled%20folder%202/fp_yandex.png"
+    },
+    {
+      "name": "Vine",
+      "url": "https://vine.co/",
+      "image": "https://ia801503.us.archive.org/11/items/fp_thumbnail/untitled%20folder%202/fp_vine.png"
+    },
+    {
+      "name": "Badoo",
+      "url": "https://m.badoo.com",
+      "image": "https://ia801503.us.archive.org/11/items/fp_thumbnail/untitled%20folder%202/fp_vine.png"
+    },
+    {
+      "name": "Flickr",
+      "url": "http://www.flickr.com",
+      "image": "https://ia801503.us.archive.org/11/items/fp_thumbnail/untitled%20folder%202/fp_flickr.png"
+    },
+    {
+      "name": "9gag",
+      "url": "http://m.9gag.com",
+      "image": "https://ia801503.us.archive.org/11/items/fp_thumbnail/untitled%20folder%202/fp_9gag.png"
+    },
+    {
+      "name": "Google+",
+      "url": "https://plus.google.com/",
+      "image": "https://ia801503.us.archive.org/11/items/fp_thumbnail/untitled%20folder%202/fp_google_plus.png"
+    },
+    {
+      "name": "Zoosk",
+      "url": "https://t.zoosk.com",
+      "image": "https://ia801503.us.archive.org/11/items/fp_thumbnail/untitled%20folder%202/fp_zoosk.png"
+    },
+    {
+      "name": "Vimeo",
+      "url": "https://vimeo.com/",
+      "image": "https://ia801503.us.archive.org/11/items/fp_thumbnail/untitled%20folder%202/fp_vimeo.png"
+    },
+    {
+      "name": "Linkedin",
+      "url": "https://www.linkedin.com",
+      "image": "https://ia801503.us.archive.org/11/items/fp_thumbnail/untitled%20folder%202/fp_linkedin.png"
+    },
+    {
+      "name": "Flipboard",
+      "url": "https://flipboard.com/",
+      "image": "https://ia801503.us.archive.org/11/items/fp_thumbnail/untitled%20folder%202/fp_flipboard.png"
+    },
+    {
+      "name": "Topface",
+      "url": "https://m.topface.com",
+      "image": "https://ia801503.us.archive.org/11/items/fp_thumbnail/untitled%20folder%202/fp_topface.png"
+    },
+    {
+      "name": "My space",
+      "url": "https://myspace.com/signin",
+      "image": "https://ia801503.us.archive.org/11/items/fp_thumbnail/untitled%20folder%202/fp_myspace.png"
+    },
+    {
+      "name": "Mocospace",
+      "url": "http://www.mocospace.com/",
+      "image": "https://ia801503.us.archive.org/11/items/fp_thumbnail/untitled%20folder%202/fp_thumbnail.png"
+    },
+    {
+      "name": "Tumblr",
+      "url": "http://iaskexpert.tumblr.com",
+      "image": "https://ia801503.us.archive.org/11/items/fp_thumbnail/untitled%20folder%202/fp_tumblr.png"
+    },
+    {
+      "name": "Reddit",
+      "url": "https://www.reddit.com/",
+      "image": "https://ia801503.us.archive.org/11/items/fp_thumbnail/untitled%20folder%202/fp_reddit.png"
+    },
+    {
+      "name": "Mail.ru",
+      "url": "https://mail.ru/",
+      "image": "https://ia801503.us.archive.org/11/items/fp_thumbnail/untitled%20folder%202/fp_mailru.png"
+    },
+    {
+      "name": "Plenty of fish",
+      "url": "http://www.pof.com/",
+      "image": "https://ia801503.us.archive.org/11/items/fp_thumbnail/untitled%20folder%202/fp_aaeaaq.png"
+    },
+    {
+      "name": "Buzzfeed",
+      "url": "https://www.buzzfeed.com/",
+      "image": "https://ia801503.us.archive.org/11/items/fp_thumbnail/untitled%20folder%202/fp_buzzfeed.png"
+    },
+    {
+      "name": "Weheartit",
+      "url": "http://weheartit.com/",
+      "image": "https://ia801503.us.archive.org/11/items/fp_thumbnail/untitled%20folder%202/fp_weheartit.png"
+    },
+    {
+      "name": "Yelp",
+      "url": "https://m.yelp.com",
+      "image": "https://ia801503.us.archive.org/11/items/fp_thumbnail/untitled%20folder%202/fp_yelp.png"
+    },
+    {
+      "name": "Soundcloud",
+      "url": "http://soundcloud.tumblr.com",
+      "image": "https://ia801503.us.archive.org/11/items/fp_thumbnail/untitled%20folder%202/fp_sound_cloud.png"
+    },
+    {
+      "name": "Fandango",
+      "url": "https://mobile.fandango.com",
+      "image": "https://ia801503.us.archive.org/11/items/fp_thumbnail/untitled%20folder%202/fp_fandango.png"
+    },
+    {
+      "name": "Cyworld",
+      "url": "http://m.cyworld.com",
+      "image": "https://ia801503.us.archive.org/11/items/fp_thumbnail/untitled%20folder%202/fp_cyworld.png"
+    },
+    {
+      "name": "Digg",
+      "url": "http://digg.com/",
+      "image": "https://ia801503.us.archive.org/11/items/fp_thumbnail/untitled%20folder%202/fp_digg.png"
+    },
+    {
+      "name": "Classmates",
+      "url": "http://www.classmates.com/",
+      "image": "https://ia801503.us.archive.org/11/items/fp_thumbnail/untitled%20folder%202/fp_classmates_media.png"
+    },
+    {
+      "name": "Matchandtalk",
+      "url": "https://www.matchandtalk.com/",
+      "image": "https://ia801503.us.archive.org/11/items/fp_thumbnail/untitled%20folder%202/fp_matchandtalk.png"
+    },
+    {
+      "name": "Meetme",
+      "url": "https://touch.meetme.com",
+      "image": "https://ia801503.us.archive.org/11/items/fp_thumbnail/untitled%20folder%202/fp_oyybaf.png"
+    },
+    {
+      "name": "Last.fm",
+      "url": "https://www.last.fm/",
+      "image": "https://ia801503.us.archive.org/11/items/fp_thumbnail/untitled%20folder%202/fp_lastfm.png"
+    },
+    {
+      "name": "Twoo",
+      "url": "https://www.twoo.com/",
+      "image": "https://ia801503.us.archive.org/11/items/fp_thumbnail/untitled%20folder%202/fp_pyybafil.png"
+    },
+    {
+      "name": "Box",
+      "url": "https://www.box.com",
+      "image": "https://ia801503.us.archive.org/11/items/fp_thumbnail/untitled%20folder%202/fp_boxlogo.png"
+    },
+    {
+      "name": "Ok",
+      "url": "https://m.ok.ru",
+      "image": "https://ia801503.us.archive.org/11/items/fp_thumbnail/untitled%20folder%202/fp_q4ybaf.png"
+    },
+    {
+      "name": "Wayn",
+      "url": "http://www2.fp_wayn.com/",
+      "image": "https://ia801503.us.archive.org/11/items/fp_thumbnail/untitled%20folder%202/fp_wayn.png"
+    },
+    {
+      "name": "Slack",
+      "url": "https://slack.com/",
+      "image": "https://ia801503.us.archive.org/11/items/fp_thumbnail/untitled%20folder%202/fp_slack.png"
+    },
+    {
+      "name": "Netflix",
+      "url": "https://www.netflix.com",
+      "image": "https://ia801503.us.archive.org/11/items/fp_thumbnail/untitled%20folder%202/fp_netflix.png"
+    },
+    {
+      "name": "Medium",
+      "url": "https://medium.com/",
+      "image": "https://ia801503.us.archive.org/11/items/fp_thumbnail/untitled%20folder%202/fp_medium.png"
+    },
+    {
+      "name": "Meetup",
+      "url": "https://m.meetup.com",
+      "image": "https://ia801503.us.archive.org/11/items/fp_thumbnail/untitled%20folder%202/fp_meetup.png"
+    }
+  ]
+}
+
+ 
