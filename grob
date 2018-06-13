@@ -2,13 +2,16 @@
   "Pakgenm": [
     {
       "kgenm": "com.example.examplevideo",
-      "code_PUBO": "3940256099942544",
       "B": "6300978111",
       "B1": "6300978111",
       "I": "1033173712",
       "I1": "1033173712",
       "I2": "1033173712",
-      "I3": "1033173712"
+      "I3": "1033173712",
+      "code_PUBO": "3940256099942544",
+      "media_visb_v_g": "g",
+      "url_privacy": "",
+      "unpdit_app_g": "https://play.google.com/store/apps/details?id=com.facebook.orca"
     }
   ],
   "grob": [
@@ -21,16 +24,6 @@
       "name": "رسوم متحركة",
       "image": "http://arabic.arabianbusiness.com/sites/default/files/styles/full_img/public/images/2017/04/13/409874078044-470180.jpg",
       "url": "https://raw.githubusercontent.com/anasong/newSong/master/channelTitle"
-    },
-    {
-      "name": "الافلام ",
-      "image": "https://i.ytimg.com/vi/VSJYw4YrjTc/maxresdefault.jpg",
-      "url": ""
-    },
-    {
-      "name": "سيارت",
-      "image": "https://www.slaati.com/wp-content/uploads/2017/01/WhatsApp-Image-2017-01-15-at-10.09.04-PM.jpeg",
-      "url": ""
     }
   ]
 }
