@@ -1,0 +1,9 @@
+{
+  "com.example.voolvo.voolvo": [
+    {
+      "name": "Batman vs Superman",
+      "pak": "http://www.snowcorp.org/assets/demo/batman-v-superman.jpg",
+      "visb_yes_no": "no"
+    }
+  ]
+}
