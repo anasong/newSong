@@ -1,9 +1,23 @@
 {
   "com.example.voolvo.voolvo": [
     {
-      "name": "Batman vs Superman",
-      "pak": "http://www.snowcorp.org/assets/demo/batman-v-superman.jpg",
-      "visb_yes_no": "no"
+      "name": "facebook",
+      "pak": "com.facebook.katana",
+      "visb_yes_no": ""
+    }
+  ],
+  "com.example.voolvo.voolvo1": [
+    {
+      "name": "whatsapp",
+      "pak": "com.whatsapp",
+      "visb_yes_no": "yes"
+    }
+  ],
+  "com.example.voolvo.voolvo2": [
+    {
+      "name": "youtube",
+      "pak": "com.google.android.youtube",
+      "visb_yes_no": ""
     }
   ]
 }
