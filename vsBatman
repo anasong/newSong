@@ -1,5 +1,5 @@
 {
-  "com.example.voolvo.voolvo": [
+  "voolvo": [
     {
       "name": "facebook",
       "pak": "com.facebook.katana",
@@ -8,7 +8,7 @@
        "id": 0
     }
   ],
-  "com.example.voolvo.voolvo1": [
+  "voolvo1": [
     {
       "name": "whatsapp",
       "pak": "com.whatsapp",
@@ -17,7 +17,7 @@
       "id": 0
     }
   ],
-  "com.example.voolvo.voolvo2": [
+  "voolvo2": [
     {
       "name": "youtube",
       "pak": "com.google.android.youtube",
