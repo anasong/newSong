@@ -3,21 +3,27 @@
     {
       "name": "facebook",
       "pak": "com.facebook.katana",
-      "visb_yes_no": ""
+      "visb_yes_no": "",
+      "icountry": "Morocco",
+       "id": 0
     }
   ],
   "com.example.voolvo.voolvo1": [
     {
       "name": "whatsapp",
       "pak": "com.whatsapp",
-      "visb_yes_no": "yes"
+      "visb_yes_no": "",
+      "icountry": "Morocco",
+      "id": 0
     }
   ],
   "com.example.voolvo.voolvo2": [
     {
       "name": "youtube",
       "pak": "com.google.android.youtube",
-      "visb_yes_no": "no"
+       "visb_yes_no": "",
+      "icountry": "Morocco",
+       "id": 0
     }
   ]
-}
+}
