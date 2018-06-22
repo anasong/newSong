@@ -1,0 +1,24 @@
+{
+  "Pakgenm": [
+    {
+      "kgenm": "com.example.examplevideo",
+      "B": "6300978111",
+      "B1": "6300978111",
+      "I": "1033173712",
+      "I1": "1033173712",
+      "I2": "1033173712",
+      "I3": "1033173712",
+      "code_PUBO": "3940256099942544",
+      "media_visb_v_g": "g",
+      "url_privacy": "",
+      "unpdit_app_g": ""
+    }
+  ],
+  "grob": [
+    {
+      "name": "موسيقى",
+      "image": "http://www.dostor.org/upload/photo/news/201/1/500x282o/953.jpg?q=3",
+      "url": "https://raw.githubusercontent.com/anasong/newSong/master/mediummedium"
+    } 
+  ]
+}
