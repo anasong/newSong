@@ -2,89 +2,90 @@
   "tay": [
     {
       "tayb": "_",
-      "uri_p": "https://videostatus.net/assets/videos/"
+      "uri_p": "https://videostatus.net/assets/videos/",
+      "uri_imag": "thumbnails/canvas_320/"
     }
   ],
   "array": [
     {
       "title": "1",
-      "vide_o": "jo-meri-manzil-ko-jati-hai-video-status",
-      "ima_g": "https://videostatus.net/assets/thumbnails/canvas_320/jo_meri_manzil_ko_jati_hai_2.jpg"
+      "vide_o": "jo_meri_manzil_ko_jati_hai",
+      "ima_g": "jo_meri_manzil_ko_jati_hai_2.jpg"
     },
     {
       "title": "2",
-      "vide_o": "made-in-india-video-status",
-      "ima_g": "https://videostatus.net/assets/thumbnails/canvas_320/made_in_india_2.jpg"
+      "videoId": "made_in_india",
+      "ima_g": "made_in_india_2.jpg"
     },
     {
       "title": "3",
-      "vide_o": "jo-gara-tara-loveratri-video-status",
-      "ima_g": "https://videostatus.net/assets/thumbnails/canvas_320/jo_gara_tara_loveratri_1.jpg"
+      "vide_o": "jo_gara_tara_loveratri",
+      "ima_g": "jo_gara_tara_loveratri_1.jpg"
     },
     {
       "title": "4",
-      "vide_o": "party-chale-on-video-status",
-      "ima_g": "https://videostatus.net/assets/thumbnails/canvas_320/party_chale_on_3.jpg"
+      "vide_o": "party_chale_on",
+      "ima_g": "party_chale_on_3.jpg"
     },
     {
       "title": "5",
-      "vide_o": "ruby-ruby-sanju-ranbir-kapoor-video-status",
-      "ima_g": "https://videostatus.net/assets/thumbnails/canvas_320/ruby_ruby_sanju_ranbir_kapoor_2.jpg"
+      "vide_o": "ruby_ruby_sanju_ranbir_kapoor",
+      "ima_g": "ruby_ruby_sanju_ranbir_kapoor_2.jpg"
     },
     {
       "title": "6",
-      "vide_o": "kar-har-maidaan-fateh-video-status",
-      "ima_g": "https://videostatus.net/assets/thumbnails/canvas_320/kar_har_maidaan_fateh_2.jpg"
+      "vide_o": "kar_har_maidaan_fateh",
+      "ima_g": "kar_har_maidaan_fateh_2.jpg"
     },
     {
       "title": "7",
-      "vide_o": "humnava-mere-lyrics-video-status",
-      "ima_g": "https://videostatus.net/assets/thumbnails/canvas_320/humnava_mere_lyrics_3.jpg"
+      "vide_o": "humnava_mere_lyrics",
+      "ima_g": "humnava_mere_lyrics_3.jpg"
     },
     {
       "title": "8",
-      "vide_o": "main-badhiya-tu-bhi-badhiya-video-status",
-      "ima_g": "https://videostatus.net/assets/thumbnails/canvas_320/main_badhiya_tu_bhi_badhiya_3.jpg"
+      "vide_o": "main_badhiya_tu_bhi_badhiya",
+      "ima_g": "main_badhiya_tu_bhi_badhiya_3.jpg"
     },
     {
       "title": "9",
-      "vide_o": "thug-ranjha1-video-status",
-      "ima_g": "https://videostatus.net/assets/thumbnails/canvas_320/1527657237_Thug_Ranjha1.jpg"
+      "vide_o": "thug_ranjha1",
+      "ima_g": "1527657237_Thug_Ranjha1.jpg"
     },
     {
       "title": "10",
-      "vide_o": "selfish-race-3-atif-aslam-video-status",
-      "ima_g": "https://videostatus.net/assets/thumbnails/canvas_320/1527321155_Selfish_race_3_atif_Aslam.jpg"
+      "vide_o": "selfish_race_3_atif_aslam",
+      "ima_g": "1527321155_Selfish_race_3_atif_Aslam.jpg"
     },
     {
       "title": "11",
-      "vide_o": "race-3-heeriye-video-status",
-      "ima_g": "https://videostatus.net/assets/thumbnails/canvas_320/1527317727_Race_3_Heeriye.jpg"
+      "vide_o": "race_3_heeriye",
+      "ima_g": "1527317727_Race_3_Heeriye.jpg"
     },
     {
       "title": "12",
-      "vide_o": "unstoppable-by-dino-james-motivational-video-status",
-      "ima_g": "https://videostatus.net/assets/thumbnails/canvas_320/1527317806_Unstoppable_By_Dino_James__motivational.jpg"
+      "vide_o": "unstoppable_by_dino_james_motivational",
+      "ima_g": "1527317806_Unstoppable_By_Dino_James__motivational.jpg"
     },
     {
       "title": "13",
-      "vide_o": "jitni-dafa-parmanu-video-status",
-      "ima_g": "https://videostatus.net/assets/thumbnails/canvas_320/1527056023_Jitni_Dafa.jpg"
+      "vide_o": "jitni_dafa_parmanu",
+      "ima_g": "1527056023_Jitni_Dafa.jpg"
     },
     {
       "title": "14",
-      "vide_o": "5776/shubh-din-parmanu-video-status",
-      "ima_g": "https://videostatus.net/assets/thumbnails/canvas_320/1527055042_Shubh_Din_parmanu.jpg"
+      "vide_o": "5776/shubh_din_parmanu",
+      "ima_g": "1527055042_Shubh_Din_parmanu.jpg"
     },
     {
       "title": "15",
-      "vide_o": "ajnabee-soham-naik-video-status",
-      "ima_g": "https://videostatus.net/assets/thumbnails/canvas_320/1526708558_Ajnabee_Soham_Naik.jpg"
+      "vide_o": "ajnabee_soham_naik",
+      "ima_g": "1526708558_Ajnabee_Soham_Naik.jpg"
     },
     {
       "title": "16",
-      "vide_o": "magenta-riddim-dj-snake-video-status",
-      "ima_g": "https://videostatus.net/assets/thumbnails/canvas_320/1525236956_Magenta_Riddim_dj_Snake.jpg"
+      "vide_o": "magenta_riddim_dj_snake",
+      "ima_g": "1525236956_Magenta_Riddim_dj_Snake.jpg"
     }
   ]
 }
