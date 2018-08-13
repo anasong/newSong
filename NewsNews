@@ -1,20 +1,87 @@
 {
   "status": "ok",
-  "totalResults": 1,
+  "source": "al-jazeera-english",
+  "sortBy": "top",
   "articles": [
-    
     {
-      "source": {
-        "id": "fox-news",
-        "name": "Fox News"
-      },
-      "author": "Fox News",
-      "title": " olice",
-      "description": "Dolice",
-      "url": "http://video.foxnews. 1/",
-      "urlToImage": "http://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2018/08/13/640/360/694940094001_5821488715001_5821485164001-vs.jpg",
-      "publishedAt": "2018-08-13T20:57:05.4374383Z"
+      "author": "youness",
+      "title": "youness",
+      "description": "youness",
+      "url": "http://www.aljazeera.com/news/",
+      "urlToImage": "https://www.aljazeera.com/mritems/Images/2018/8/13/857ca093b421483493bddad985f167f1_18.jpg",
+      "publishedAt": "2018-08-13T18:38:00Z"
+    },
+    {
+      "author": "Al Jazeera",
+      "title": "Iran's Khamenei: No war, no negotiations with Trump",
+      "description": "Supreme leader rejects Trump's offer as foreign minister questions whether US president is 'serious about talks'.",
+      "url": "http://www.aljazeera.com/news/2018/08/iran-khamenei-war-negotiations-trump-180813135405516.html",
+      "urlToImage": "https://www.aljazeera.com/mritems/Images/2018/8/13/857ca093b421483493bddad985f167f1_18.jpg",
+      "publishedAt": "2018-08-13T16:38:00Z"
+    },
+    {
+      "author": "Al Jazeera",
+      "title": "Tunisia's president vows to give women equal inheritance rights",
+      "description": "Beji Caid Essebsi says the measure was a long time coming but some are sceptical about the proposal's motivations.",
+      "url": "http://www.aljazeera.com/news/2018/08/tunisia-president-vows-give-women-equal-inheritance-rights-180813172138132.html",
+      "urlToImage": "https://www.aljazeera.com/mritems/Images/2018/8/13/0e90c6a5b20d402bba15d2aae2cdc532_18.jpg",
+      "publishedAt": "2018-08-13T20:19:00Z"
+    },
+    {
+      "author": null,
+      "title": "Will the Caspian Sea deal hold?",
+      "description": null,
+      "url": "http://www.aljazeera.com/programmes/insidestory/2018/08/caspian-sea-deal-hold-180813193010369.html",
+      "urlToImage": null,
+      "publishedAt": null
+    },
+    {
+      "author": "Loes Witschge",
+      "title": "'This is a revolution': Who are Nicaragua's student protesters?",
+      "description": "In Nicaragua, students at the heart of the anti-government protests say they want another revolution.",
+      "url": "http://www.aljazeera.com/indepth/features/revolution-nicaragua-student-protesters-180807123154246.html",
+      "urlToImage": "https://www.aljazeera.com/mritems/Images/2018/8/7/019b91de35aa4e698dfee9564d395a33_18.jpg",
+      "publishedAt": "2018-08-13T19:19:00Z"
+    },
+    {
+      "author": "Faras Ghani",
+      "title": "How Islamophobia is driving anti-refugee sentiment in Korea",
+      "description": "The arrival of 550-plus Yemeni asylum seekers on South Korea's Jeju island has sparked protests in Seoul and online.",
+      "url": "http://www.aljazeera.com/indepth/features/islamophobia-driving-anti-refugee-sentiment-korea-180813062317079.html",
+      "urlToImage": "https://www.aljazeera.com/mritems/Images/2018/8/13/8af136288dbe4a778d690c99e216a8fa_18.jpg",
+      "publishedAt": "2018-08-13T17:09:00Z"
+    },
+    {
+      "author": "Fragkiska Megaloudi",
+      "title": "A new generation of African artists making music in Senegal",
+      "description": "As some look West, others choose to remain on the continent despite financial uncertainty to create music with meaning.",
+      "url": "http://www.aljazeera.com/indepth/features/generation-african-artists-making-music-senegal-180812224637161.html",
+      "urlToImage": "https://www.aljazeera.com/mritems/Images/2018/7/22/6976504217e04d8d8ff7434630fc1705_18.jpg",
+      "publishedAt": "2018-08-13T08:21:00Z"
+    },
+    {
+      "author": "Linah Alsaafin",
+      "title": "The woman leading the way for Rohingya at a Bangladesh camp",
+      "description": "The first local election at a Rohingya refugee camp in Bangladesh ended with half of chosen representatives being women.",
+      "url": "http://www.aljazeera.com/indepth/features/setting-rohingya-camp-elects-women-leaders-180812140132177.html",
+      "urlToImage": "https://www.aljazeera.com/mritems/Images/2018/8/12/dc8320a909ac4589b05d4ed94f152258_18.jpg",
+      "publishedAt": "2018-08-12T19:06:00Z"
+    },
+    {
+      "author": "Ted Regencia",
+      "title": "The art of the Iranian deal: How Trump can talk to Tehran",
+      "description": "Iranian experts say US needs to deliver confidence-building measures for Tehran to open its doors to negotiations.",
+      "url": "http://www.aljazeera.com/news/2018/07/art-iranian-deal-trump-talk-tehran-180716082953755.html",
+      "urlToImage": "https://www.aljazeera.com/mritems/Images/2018/8/12/1554f25484d84d738e5ad891f1181ed7_18.jpg",
+      "publishedAt": "2018-08-12T11:56:00Z"
+    },
+    {
+      "author": null,
+      "title": "Is the US looking for war in space?",
+      "description": null,
+      "url": "http://www.aljazeera.com/programmes/insidestory/2018/08/war-space-180812193539622.html",
+      "urlToImage": null,
+      "publishedAt": null
     }
-
   ]
 }
