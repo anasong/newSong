@@ -13,7 +13,19 @@
       "url": "http://video.foxnews.com/v/5821485164001/",
       "urlToImage": "http://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2018/08/13/640/360/694940094001_5821488715001_5821485164001-vs.jpg",
       "publishedAt": "2018-08-13T20:45:05.4374383Z"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": "Fox News",
+      "title": " olice",
+      "description": "Dolice",
+      "url": "http://video.foxnews. 1/",
+      "urlToImage": "http://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2018/08/13/640/360/694940094001_5821488715001_5821485164001-vs.jpg",
+      "publishedAt": "2018-08-13T20:49:05.4374383Z"
     }
-    
+
   ]
 }
