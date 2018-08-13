@@ -1,16 +1,15 @@
 {
   "status": "ok",
-  "totalResults": 1,
+  "source": "al-jazeera-english",
+  "sortBy": "top",
   "articles": [
     {
-       
-      "author": "youness",
-      "title": "What Happens to #MeToo When a Feminist Is the Accused?",
-      "description": "Avital Ronell, a superstar professor, was found by N.Y.U. to have sexually harassed a male grad student. But his charges have met disbelief from some feminist scholars.",
-      "url": "https://www.nytimes.com/2018/08/13/nyregion/sexual-harassment-nyu-female-professor.html",
-      "urlToImage": "https://static01.nyt.com/images/2018/08/14/nyregion/14nyu/00nyu-facebookJumbo.jpg",
-      "publishedAt": "2018-08-13T22:17:47.533Z",
-      "wakt": "00:10:00"
+      "author": "youness 2018",
+      "title": "youness2018",
+      "description": "youness2018",
+      "url": "http://www.2018.com/news/",
+      "urlToImage": "https://www.aljazeera.com/mritems/Images/2018/8/13/857ca093b421483493bddad985f167f1_18.jpg",
+      "publishedAt": "2018-08-14T00:38:00Z"
     } 
   ]
 }
