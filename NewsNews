@@ -2,18 +2,7 @@
   "status": "ok",
   "totalResults": 1,
   "articles": [
-    {
-      "source": {
-        "id": "fox-news",
-        "name": "Fox News"
-      },
-      "author": "Fox News",
-      "title": "Dash cam video: Shootout between suspect and state police",
-      "description": "Dash camera video shows a harrowing shootout between a man pulled over for speeding and two Pennsylvania state police troopers.",
-      "url": "http://video.foxnews.com/v/5821485164001/",
-      "urlToImage": "http://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2018/08/13/640/360/694940094001_5821488715001_5821485164001-vs.jpg",
-      "publishedAt": "2018-08-13T20:45:05.4374383Z"
-    },
+    
     {
       "source": {
         "id": "fox-news",
@@ -24,7 +13,7 @@
       "description": "Dolice",
       "url": "http://video.foxnews. 1/",
       "urlToImage": "http://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2018/08/13/640/360/694940094001_5821488715001_5821485164001-vs.jpg",
-      "publishedAt": "2018-08-13T20:49:05.4374383Z"
+      "publishedAt": "2018-08-13T20:57:05.4374383Z"
     }
 
   ]
