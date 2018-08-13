@@ -1,31 +1,30 @@
 {
   "status": "ok",
-  "source": "bbc-sport",
-  "sortBy": "top",
+  "totalResults": 1,
   "articles": [
     {
-      "author": "BBC Sport",
-      "title": "Raheem Sterling: Manchester City winger is targeted by racism, says Ian Wright",
-      "description": "Criticism of Manchester City and England winger Raheem Sterling is motivated by racism, says ex-Arsenal striker Ian Wright.",
-      "url": "http://www.bbc.co.uk/sport/football/45177178",
-      "urlToImage": "https://ichef.bbci.co.uk/onesport/cps/624/cpsprodpb/F66D/production/_102958036_sterling_rex.jpg",
-      "publishedAt": "2018-08-13T19:49:50Z"
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "youness",
+      "title": "What Happens to #MeToo When a Feminist Is the Accused?",
+      "description": "Avital Ronell, a superstar professor, was found by N.Y.U. to have sexually harassed a male grad student. But his charges have met disbelief from some feminist scholars.",
+      "url": "https://www.nytimes.com/2018/08/13/nyregion/sexual-harassment-nyu-female-professor.html",
+      "urlToImage": "https://static01.nyt.com/images/2018/08/14/nyregion/14nyu/00nyu-facebookJumbo.jpg",
+      "publishedAt": "2018-08-13T22:17:47.533Z"
     },
     {
-      "author": "B",
-      "title": "Rah",
-      "description": "Criticis",
-      "url": "http://www.bbc.co.uk",
-      "urlToImage": "https://ichef.bbci.co.uk/onesport/cps/624/cpsprodpb/F66D/production/_102958036_sterling_rex.jpg",
-      "publishedAt": "2018-08-13T20:15:50Z"
-    },
-    {
-      "author": "David Canellis",
-      "title": "John McAfee’s",
-      "description": "Remember John McAfee’s supposedly ",
-      "url": "https://iphoneislam.com",
-      "urlToImage": "https://as.ftcdn.net/r/v1/pics/ea2e0032c156b2d3b52fa9a05fe30dedcb0c47e3/landing/images_photos.jpg",
-      "publishedAt": "2018-08-13T20:49:50Z"
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "http://www.nytimes.com/by/maggie-haberman",
+      "title": "Trump Appears to Admit White House Aides Signed Nondisclosure Agreements",
+      "description": "A tweet disparaging Omarosa Manigault Newman, a former aide, appeared to confirm the highly unusual agreements, which officials have declined to acknowledge for months.",
+      "url": "https://www.nytimes.com/2018/08/13/us/politics/trump-nondisclosure-agreements-omarosa.html",
+      "urlToImage": "https://static01.nyt.com/images/2018/08/14/us/politics/14dc-trumptapes-print-1/merlin_142329120_e169a6c8-ec8c-49a6-9720-c121f187012d-facebookJumbo.jpg",
+      "publishedAt": "2018-08-13T22:17:45.324Z"
     }
   ]
 }
