@@ -1,0 +1,52 @@
+{
+  "movies": [
+    {
+      "name": "Deadpool",
+      "small": "https://api.androidhive.info/images/glide/small/deadpool.jpg"
+    },
+    {
+      "name": "Batman vs Superman",
+      "small": "https://api.androidhive.info/images/glide/small/bvs.jpg"
+    },
+    {
+      "name": "Captain America: Civil War",
+      "small": "https://api.androidhive.info/images/glide/small/cacw.jpg"
+    },
+    {
+      "name": "Jason Bourne",
+      "small": "https://api.androidhive.info/images/glide/small/bourne.jpg"
+    },
+    {
+      "name": "Suicide Squad",
+      "small": "https://api.androidhive.info/images/glide/small/squad.jpg"
+    },
+    {
+      "name": "Doctor Strange",
+      "small": "https://api.androidhive.info/images/glide/small/doctor.jpg"
+    },
+    {
+      "name": "Finding Dory",
+      "small": "https://api.androidhive.info/images/glide/small/dory.jpg"
+    },
+    {
+      "name": "The Hunger Games: Mockingjay",
+      "small": "https://api.androidhive.info/images/glide/small/hunger.jpg"
+    },
+    {
+      "name": "The Finest Hours",
+      "small": "https://api.androidhive.info/images/glide/small/hours.jpg"
+    },
+    {
+      "name": "Ip Man 3",
+      "small": "https://api.androidhive.info/images/glide/small/ipman3.jpg"
+    },
+    {
+      "name": "The Jungle Book",
+      "small": "https://api.androidhive.info/images/glide/small/book.jpg"
+    },
+    {
+      "name": "X-Men: Apocalypse",
+      "small": "https://api.androidhive.info/images/glide/small/xmen.jpg"
+    }
+  ]
+}
