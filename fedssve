@@ -1,0 +1,17 @@
+[
+   {
+      "name":"Antman",
+      "publisher":"Marvel",
+      "image":"http:\/\/simplifiedcoding.16mb.com\/feed\/antman.jpg"
+   },
+   {
+      "name":"Batman",
+      "publisher":"DC",
+      "image":"http:\/\/simplifiedcoding.16mb.com\/feed\/batman.jpg"
+   },
+   {
+      "name":"Captain America",
+      "publisher":"Marvel",
+      "image":"http:\/\/simplifiedcoding.16mb.com\/feed\/captainamerica.jpg"
+   }
+]
