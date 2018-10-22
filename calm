@@ -1,0 +1,491 @@
+{
+  "calm": [
+    {
+      "name": "calm",
+      "pak": "com.facebook.katana",
+      "visb_yes_no": "yes",
+      "icountry": "Hernia is a condition caused by the exitMorocco of part of the body members from its natural placeAlgeria and directed to another place within the body or beyond its borders and often because of the lack of closure of that place, which is supposed to be a natural barrier prevents closure",
+      "id": 0,
+      "kgenm": "com.android.calm",
+      "B": "3709827996",
+      "B1": "2384018476",
+      "I": "1617731718",
+      "I1": "2391633621",
+      "I2": "1617731718",
+      "vidd": "4982261658",
+      "code_PUBO": "9719687791991814",
+      "url_privacy": "https://sites.google.com/view/privacy-policy-newandios",
+      "jsonpassword": "hiyounessqwqwcd"
+    }
+  ],
+  "med": [
+    {
+      "title": "الفاتحة",
+      "url": "https://server7.mp3quran.net/shur/001.mp3"
+    },
+    {
+      "title": "البقرة",
+      "url": "https://server7.mp3quran.net/shur/002.mp3"
+    },
+    {
+      "title": "آل عمران",
+      "url": "https://server7.mp3quran.net/shur/003.mp3"
+    },
+    {
+      "title": "النساء",
+      "url": "https://server7.mp3quran.net/shur/004.mp3"
+    },
+    {
+      "title": "المائدة",
+      "url": "https://server7.mp3quran.net/shur/005.mp3"
+    },
+    {
+      "title": "الأنعام",
+      "url": "https://server7.mp3quran.net/shur/006.mp3"
+    },
+    {
+      "title": "الأعراف",
+      "url": "https://server7.mp3quran.net/shur/007.mp3"
+    },
+    {
+      "title": "الأنفال",
+      "url": "https://server7.mp3quran.net/shur/008.mp3"
+    },
+    {
+      "title": "التوبة",
+      "url": "https://server7.mp3quran.net/shur/009.mp3"
+    },
+    {
+      "title": "يونس",
+      "url": "https://server7.mp3quran.net/shur/010.mp3"
+    },
+    {
+      "title": "هود",
+      "url": "https://server7.mp3quran.net/shur/011.mp3"
+    },
+    {
+      "title": "يوسف",
+      "url": "https://server7.mp3quran.net/shur/012.mp3"
+    },
+    {
+      "title": "الرعد",
+      "url": "https://server7.mp3quran.net/shur/013.mp3"
+    },
+    {
+      "title": "إبراهيم",
+      "url": "https://server7.mp3quran.net/shur/014.mp3"
+    },
+    {
+      "title": "الحجر",
+      "url": "https://server7.mp3quran.net/shur/015.mp3"
+    },
+    {
+      "title": "النحل",
+      "url": "https://server7.mp3quran.net/shur/016.mp3"
+    },
+    {
+      "title": "الإسراء",
+      "url": "https://server7.mp3quran.net/shur/017.mp3"
+    },
+    {
+      "title": "الكهف",
+      "url": "https://server7.mp3quran.net/shur/018.mp3"
+    },
+    {
+      "title": "مريم",
+      "url": "https://server7.mp3quran.net/shur/019.mp3"
+    },
+    {
+      "title": "طه",
+      "url": "https://server7.mp3quran.net/shur/020.mp3"
+    },
+    {
+      "title": "الأنبياء",
+      "url": "https://server7.mp3quran.net/shur/021.mp3"
+    },
+    {
+      "title": "الحج",
+      "url": "https://server7.mp3quran.net/shur/022.mp3"
+    },
+    {
+      "title": "المؤمنون",
+      "url": "https://server7.mp3quran.net/shur/023.mp3"
+    },
+    {
+      "title": "النور",
+      "url": "https://server7.mp3quran.net/shur/024.mp3"
+    },
+    {
+      "title": "الفرقان",
+      "url": "https://server7.mp3quran.net/shur/025.mp3"
+    },
+    {
+      "title": "الشعراء",
+      "url": "https://server7.mp3quran.net/shur/026.mp3"
+    },
+    {
+      "title": "النمل",
+      "url": "https://server7.mp3quran.net/shur/027.mp3"
+    },
+    {
+      "title": "القصص",
+      "url": "https://server7.mp3quran.net/shur/028.mp3"
+    },
+    {
+      "title": "العنكبوت",
+      "url": "https://server7.mp3quran.net/shur/029.mp3"
+    },
+    {
+      "title": "الروم",
+      "url": "https://server7.mp3quran.net/shur/030.mp3"
+    },
+    {
+      "title": "لقمان",
+      "url": "https://server7.mp3quran.net/shur/031.mp3"
+    },
+    {
+      "title": "السجدة",
+      "url": "https://server7.mp3quran.net/shur/032.mp3"
+    },
+    {
+      "title": "الأحزاب",
+      "url": "https://server7.mp3quran.net/shur/033.mp3"
+    },
+    {
+      "title": "سبأ",
+      "url": "https://server7.mp3quran.net/shur/034.mp3"
+    },
+    {
+      "title": "فاطر",
+      "url": "https://server7.mp3quran.net/shur/035.mp3"
+    },
+    {
+      "title": "يس",
+      "url": "https://server7.mp3quran.net/shur/036.mp3"
+    },
+    {
+      "title": "الصافات",
+      "url": "https://server7.mp3quran.net/shur/037.mp3"
+    },
+    {
+      "title": "ص",
+      "url": "https://server7.mp3quran.net/shur/038.mp3"
+    },
+    {
+      "title": "الزمر",
+      "url": "https://server7.mp3quran.net/shur/039.mp3"
+    },
+    {
+      "title": "غافر",
+      "url": "https://server7.mp3quran.net/shur/040.mp3"
+    },
+    {
+      "title": "فصلت",
+      "url": "https://server7.mp3quran.net/shur/041.mp3"
+    },
+    {
+      "title": "الشورى",
+      "url": "https://server7.mp3quran.net/shur/042.mp3"
+    },
+    {
+      "title": "الزخرف",
+      "url": "https://server7.mp3quran.net/shur/043.mp3"
+    },
+    {
+      "title": "الدخان",
+      "url": "https://server7.mp3quran.net/shur/044.mp3"
+    },
+    {
+      "title": "الجاثية",
+      "url": "https://server7.mp3quran.net/shur/045.mp3"
+    },
+    {
+      "title": "الأحقاف",
+      "url": "https://server7.mp3quran.net/shur/046.mp3"
+    },
+    {
+      "title": "محمد",
+      "url": "https://server7.mp3quran.net/shur/047.mp3"
+    },
+    {
+      "title": "الفتح",
+      "url": "https://server7.mp3quran.net/shur/048.mp3"
+    },
+    {
+      "title": "الحجرات",
+      "url": "https://server7.mp3quran.net/shur/049.mp3"
+    },
+    {
+      "title": "ق",
+      "url": "https://server7.mp3quran.net/shur/050.mp3"
+    },
+    {
+      "title": "الذاريات",
+      "url": "https://server7.mp3quran.net/shur/051.mp3"
+    },
+    {
+      "title": "الطور",
+      "url": "https://server7.mp3quran.net/shur/052.mp3"
+    },
+    {
+      "title": "النجم",
+      "url": "https://server7.mp3quran.net/shur/053.mp3"
+    },
+    {
+      "title": "القمر",
+      "url": "https://server7.mp3quran.net/shur/054.mp3"
+    },
+    {
+      "title": "الرحمن",
+      "url": "https://server7.mp3quran.net/shur/055.mp3"
+    },
+    {
+      "title": "الواقعة",
+      "url": "https://server7.mp3quran.net/shur/056.mp3"
+    },
+    {
+      "title": "الحديد",
+      "url": "https://server7.mp3quran.net/shur/057.mp3"
+    },
+    {
+      "title": "المجادلة",
+      "url": "https://server7.mp3quran.net/shur/058.mp3"
+    },
+    {
+      "title": "الحشر",
+      "url": "https://server7.mp3quran.net/shur/059.mp3"
+    },
+    {
+      "title": "الممتحنة",
+      "url": "https://server7.mp3quran.net/shur/060.mp3"
+    },
+    {
+      "title": "الصف",
+      "url": "https://server7.mp3quran.net/shur/061.mp3"
+    },
+    {
+      "title": "الجمعة",
+      "url": "https://server7.mp3quran.net/shur/062.mp3"
+    },
+    {
+      "title": "المنافقون",
+      "url": "https://server7.mp3quran.net/shur/063.mp3"
+    },
+    {
+      "title": "التغابن",
+      "url": "https://server7.mp3quran.net/shur/064.mp3"
+    },
+    {
+      "title": "الطلاق",
+      "url": "https://server7.mp3quran.net/shur/065.mp3"
+    },
+    {
+      "title": "التحريم",
+      "url": "https://server7.mp3quran.net/shur/066.mp3"
+    },
+    {
+      "title": "الملك",
+      "url": "https://server7.mp3quran.net/shur/067.mp3"
+    },
+    {
+      "title": "القلم",
+      "url": "https://server7.mp3quran.net/shur/068.mp3"
+    },
+    {
+      "title": "الحاقة",
+      "url": "https://server7.mp3quran.net/shur/069.mp3"
+    },
+    {
+      "title": "المعارج",
+      "url": "https://server7.mp3quran.net/shur/070.mp3"
+    },
+    {
+      "title": "نوح",
+      "url": "https://server7.mp3quran.net/shur/071.mp3"
+    },
+    {
+      "title": "الجن",
+      "url": "https://server7.mp3quran.net/shur/072.mp3"
+    },
+    {
+      "title": "المزمل",
+      "url": "https://server7.mp3quran.net/shur/073.mp3"
+    },
+    {
+      "title": "المدثر",
+      "url": "https://server7.mp3quran.net/shur/074.mp3"
+    },
+    {
+      "title": "القيامة",
+      "url": "https://server7.mp3quran.net/shur/075.mp3"
+    },
+    {
+      "title": "الإنسان",
+      "url": "https://server7.mp3quran.net/shur/076.mp3"
+    },
+    {
+      "title": "المرسلات",
+      "url": "https://server7.mp3quran.net/shur/077.mp3"
+    },
+    {
+      "title": "النبأ",
+      "url": "https://server7.mp3quran.net/shur/078.mp3"
+    },
+    {
+      "title": "النازعات",
+      "url": "https://server7.mp3quran.net/shur/079.mp3"
+    },
+    {
+      "title": "عبس",
+      "url": "https://server7.mp3quran.net/shur/080.mp3"
+    },
+    {
+      "title": "التكوير",
+      "url": "https://server7.mp3quran.net/shur/081.mp3"
+    },
+    {
+      "title": "الانفطار",
+      "url": "https://server7.mp3quran.net/shur/082.mp3"
+    },
+    {
+      "title": "المطففين",
+      "url": "https://server7.mp3quran.net/shur/083.mp3"
+    },
+    {
+      "title": "الانشقاق",
+      "url": "https://server7.mp3quran.net/shur/084.mp3"
+    },
+    {
+      "title": "البروج",
+      "url": "https://server7.mp3quran.net/shur/085.mp3"
+    },
+    {
+      "title": "الطارق",
+      "url": "https://server7.mp3quran.net/shur/086.mp3"
+    },
+    {
+      "title": "الأعلى",
+      "url": "https://server7.mp3quran.net/shur/087.mp3"
+    },
+    {
+      "title": "الغاشية",
+      "url": "https://server7.mp3quran.net/shur/088.mp3"
+    },
+    {
+      "title": "الفجر",
+      "url": "https://server7.mp3quran.net/shur/089.mp3"
+    },
+    {
+      "title": "البلد",
+      "url": "https://server7.mp3quran.net/shur/090.mp3"
+    },
+    {
+      "title": "الشمس",
+      "url": "https://server7.mp3quran.net/shur/091.mp3"
+    },
+    {
+      "title": "الليل",
+      "url": "https://server7.mp3quran.net/shur/092.mp3"
+    },
+    {
+      "title": "الضحى",
+      "url": "https://server7.mp3quran.net/shur/093.mp3"
+    },
+    {
+      "title": "الشرح",
+      "url": "https://server7.mp3quran.net/shur/094.mp3"
+    },
+    {
+      "title": "التين",
+      "url": "https://server7.mp3quran.net/shur/095.mp3"
+    },
+    {
+      "title": "العلق",
+      "url": "https://server7.mp3quran.net/shur/096.mp3"
+    },
+    {
+      "title": "القدر",
+      "url": "https://server7.mp3quran.net/shur/097.mp3"
+    },
+    {
+      "title": "البينة",
+      "url": "https://server7.mp3quran.net/shur/098.mp3"
+    },
+    {
+      "title": "الزلزلة",
+      "url": "https://server7.mp3quran.net/shur/099.mp3"
+    },
+    {
+      "title": "العاديات",
+      "url": "https://server7.mp3quran.net/shur/100.mp3"
+    },
+    {
+      "title": "القارعة",
+      "url": "https://server7.mp3quran.net/shur/101.mp3"
+    },
+    {
+      "title": "التكاثر",
+      "url": "https://server7.mp3quran.net/shur/102.mp3"
+    },
+    {
+      "title": "العصر",
+      "url": "https://server7.mp3quran.net/shur/103.mp3"
+    },
+    {
+      "title": "الهمزة",
+      "url": "https://server7.mp3quran.net/shur/104.mp3"
+    },
+    {
+      "title": "الفيل",
+      "url": "https://server7.mp3quran.net/shur/105.mp3"
+    },
+    {
+      "title": "قريش",
+      "url": "https://server7.mp3quran.net/shur/106.mp3"
+    },
+    {
+      "title": "الماعون",
+      "url": "https://server7.mp3quran.net/shur/107.mp3"
+    },
+    {
+      "title": "الكوثر",
+      "url": "https://server7.mp3quran.net/shur/108.mp3"
+    },
+    {
+      "title": "الكافرون",
+      "url": "https://server7.mp3quran.net/shur/109.mp3"
+    },
+    {
+      "title": "النصر",
+      "url": "https://server7.mp3quran.net/shur/110.mp3"
+    },
+    {
+      "title": "المسد",
+      "url": "https://server7.mp3quran.net/shur/111.mp3"
+    },
+    {
+      "title": "الإخلاص",
+      "url": "https://server7.mp3quran.net/shur/112.mp3"
+    },
+    {
+      "title": "الفلق",
+      "url": "https://server7.mp3quran.net/shur/113.mp3"
+    },
+    {
+      "title": "الناس",
+      "url": "https://server7.mp3quran.net/shur/114.mp3"
+    }
+  ]
+}
+
+
+
+
+
+
+
+
+ 
+
+
+ 
